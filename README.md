@@ -1,2 +1,2 @@
-# Java-Selenium-Practice
+# AutomationPrac  
 Assignments and Practice
